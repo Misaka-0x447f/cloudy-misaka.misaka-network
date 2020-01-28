@@ -1,7 +1,6 @@
-<template>
-  <div class="home">
-    Misaka works!
-  </div>
+<template lang="pug">
+  div.container
+    span Misaka Works!
 </template>
 
 <script lang="ts">
